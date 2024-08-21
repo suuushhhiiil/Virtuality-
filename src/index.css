@@ -9,6 +9,6 @@
   color-scheme: dark;
   overflow-x: hidden;
 }
-:root::-webkit-scrollbar{
+:root::-webkit-scrollbar {
   display: none;
 }
